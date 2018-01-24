@@ -1,0 +1,9 @@
+In this lab report I tried to implement the "Round Robin Algorithm"
+Here is how to work with the executable file given in this file
+
+1.Enter the number of processes
+2.Input the arrival and burst time for the processes gradually
+3.Enter the time quantum
+
+Then we will get our expected process,Turnaround Time, Waiting Time,Average
+Waiting Time, Average Turnaround Time.

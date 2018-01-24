@@ -1,0 +1,7 @@
+Here i have implemented the "FIFO Page Replacement" algorithm.
+Here is how to input the values:
+
+1.Enter the number of pages
+2.Enter the pages
+3.Enter the number of frame
+Then we will get our expected result.

@@ -1,0 +1,10 @@
+In this lab I have implemented the "First Come First Serve Disk Scheduling Algorithm"
+
+Here is how to use the executabe file of this algorithm:
+
+1. Enter the maximum range of the disk
+2. Enter the size of queue request
+3. Enter the queues gradually
+4. Enter the initial head position
+
+Then we will get our expected result.

@@ -1,0 +1,2 @@
+"Use Of some basic command in linux terminal"
+is discussed and shown properly,in this lab report.

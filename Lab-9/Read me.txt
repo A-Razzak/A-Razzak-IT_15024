@@ -1,0 +1,9 @@
+The implementation of "Optimal Page Replacement Algorithm" is done in this lab report
+
+Here is how to use the executable file of this algorithm:
+
+1.Enter the number of pages
+2.Enter the referece string
+3.Enter the number of frames
+
+Then we will get our expected output.

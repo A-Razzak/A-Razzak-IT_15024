@@ -1,0 +1,7 @@
+Priority Scheduling Algorithm is implemented in this lab report.
+This is how to use the executed file of this c program:
+
+1.Enter the total number of Processes
+2.Enter burst time and priority untill the nunber of processes ends
+
+Then we will see our expected result

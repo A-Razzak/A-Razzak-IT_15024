@@ -1,0 +1,8 @@
+"First Come First Service" algorithm is discussed and implemented in this lab.
+Here is how to run the executable file:
+
+1.Enter the total number of processes
+2.Enter the burst times
+3.Enter the arrival times
+
+Then we will get our expected result  
